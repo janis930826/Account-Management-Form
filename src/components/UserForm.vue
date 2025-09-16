@@ -30,7 +30,7 @@ const add = () => store.addUser();
     </div>
 
     <div class="space-y-2">
-      <div class="user-row text-left px-2 p1-2">
+      <div class="user-row text-left px-2 pl-2">
         <p class="text-sm text-gray-800 w-40">Метки</p>
         <p class="text-sm text-gray-800 w-40">Тип записи</p>
         <p class="text-sm text-gray-800 w-40">Логин</p>
