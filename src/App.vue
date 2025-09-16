@@ -1,7 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import UserForm from './components/UserForm.vue'
+</script>
 
-<template>"Hello World"</template>
-
+<template>
+   <UserForm />
+</template>
 <style scoped>
-/* Custom styles can go here if needed */
 </style>
